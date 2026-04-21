@@ -4,7 +4,7 @@ const http = require('http');
 // ========== Configuration ==========
 const TELEGRAM_TOKEN = '7352641204:AAHKyuxRgNzKvg1HA5hioBP3hGOa7vt3M2k';
 const TELEGRAM_CHAT_ID = '-1002496672875';
-const CHECK_INTERVAL_MS = 1000; // كل 5 ثواني
+const CHECK_INTERVAL_MS = 1000; // كل1 ثواني
 const PORT = process.env.PORT || 3000;
 
 // URLs to monitor
